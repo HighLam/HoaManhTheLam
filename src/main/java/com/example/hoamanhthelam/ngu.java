@@ -1,8 +1,7 @@
 package com.example.hoamanhthelam;
 
-public class entity {
+public class ngu {
     private int id;
     private String name;
     private int age;
 }
-
